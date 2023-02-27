@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://www.techrepublic.com/wp-content/uploads/2018/11/TR-devops-guide.jpeg" alt="cover" />
 </div>
 
-<h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Wah Gwan! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BorisSmalling.BorisSmalling)
