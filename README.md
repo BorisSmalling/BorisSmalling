@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BorisSmalling.BorisSmalling)
 
 </p>
-<div size='20px'> Hi! I'm Boris Smalling. A Cloud/DevOps Engineer. Thank You for taking the time to view my GitHub Profile :smile: </div>
+<div size='20px'> Hi! I'm Boris Smalling. A Cloud Engineer/Solutions Architect. Thank You for taking the time to view my GitHub Profile :smile: </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
