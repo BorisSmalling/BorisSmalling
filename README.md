@@ -10,7 +10,7 @@
 </p>
 <div size='20px'> Hi! I'm Boris Smalling. A Cloud Engineer/Solutions Architect. Thank You for taking the time to view my GitHub Profile :smile: </div>
 
-<h2> About Me <img src = "https://cdn.hashnode.com/res/hashnode/image/upload/v1614610824952/myj2iXe7V.gif?auto=format,compress&gif-q=60&format=webm" width = 100px height='100px'></h2>
+<h2> About Me <img src = "https://cdn.hashnode.com/res/hashnode/image/upload/v1614610824952/myj2iXe7V.gif?auto=format,compress&gif-q=60&format=webm" width = 150px height='100px'></h2>
 
 
 - 🔭 I’m currently working on Linux and DevOps Concepts/Projects
