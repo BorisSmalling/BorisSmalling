@@ -5,7 +5,7 @@
 <h1> Wah Gwan! <img src = "https://media.licdn.com/dms/image/C4D12AQGPHPw1EQRu1Q/article-cover_image-shrink_600_2000/0/1645684142018?e=1684368000&v=beta&t=s7poJT1KnCEoC2DKPCP7FoXPy-XxYebnY8aPd7LojRk" width = 50px height='50px'> </h1>
 <p align='center'>
 
-[!](https://cdn.hashnode.com/res/hashnode/image/upload/v1614610824952/myj2iXe7V.gif?auto=format,compress&gif-q=60&format=webm)[visitors](https://visitor-badge.glitch.me/badge?page_id=BorisSmalling.BorisSmalling)
+"https://cdn.hashnode.com/res/hashnode/image/upload/v1614610824952/myj2iXe7V.gif?auto=format,compress&gif-q=60&format=webm" [visitors](https://visitor-badge.glitch.me/badge?page_id=BorisSmalling.BorisSmalling)
 
 </p>
 <div size='20px'> Hi! I'm Boris Smalling. A Cloud Engineer/Solutions Architect. Thank You for taking the time to view my GitHub Profile :smile: </div>
