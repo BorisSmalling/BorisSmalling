@@ -1,5 +1,5 @@
 <div align="center">
-<img width="55%" height = "450px" src="https://xeo5.com/idl/wp-content/uploads/2021/08/DevOps-Steps-1.gif" alt="cover" />
+<img width="55%" height = "450px" src="https://akumeninc.com/wp-content/uploads/2020/02/Animation-1.gif" alt="cover" />
 </div>
 
 <h1> Wah Gwan! <img src = "https://akumeninc.com/wp-content/uploads/2020/02/Animation-1.gif" width = 50px height='50px'> </h1>
