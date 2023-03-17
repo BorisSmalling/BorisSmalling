@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://www.techrepublic.com/wp-content/uploads/2018/11/TR-devops-guide.jpeg" alt="cover" />
+<img width="100%" height = "250px" src="https://www.techrepublic.com/wp-content/uploads/2018/11/TR-devops-guide.jpeghttps://xeo5.com/idl/wp-content/uploads/2021/08/DevOps-Steps-1.gif" alt="cover" />
 </div>
 
 <h1> Wah Gwan! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
