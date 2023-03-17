@@ -2,7 +2,7 @@
 <img width="70%" height = "450px" src="https://i.imgur.com/XEG4lU0.gif" alt="cover" />
 </div>
 
-<h1> Wah Gwan! <img src = "https://media.licdn.com/dms/image/C4D12AQGPHPw1EQRu1Q/article-cover_image-shrink_600_2000/0/1645684142018?e=1684368000&v=beta&t=s7poJT1KnCEoC2DKPCP7FoXPy-XxYebnY8aPd7LojRk" width = 50px height='50px'> </h1>
+<h1> Wah Gwan! <img src = "https://media.licdn.com/dms/image/C4D12AQGPHPw1EQRu1Q/article-cover_image-shrink_600_2000/0/1645684142018?e=1684368000&v=beta&t=s7poJT1KnCEoC2DKPCP7FoXPy-XxYebnY8aPd7LojRk" width = 70px height='70px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BorisSmalling.BorisSmalling)
